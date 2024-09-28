@@ -26,6 +26,15 @@ def torre_windows():
 def torre_main():
     # Renderiza a página main_torre.html
     return render_template('main_torre.html')
+# Rota para a página 'Sobre'
+@app.route('/about')
+def about():
+    return render_template('about.html')
+
+# Rota para a página 'Contato'
+@app.route('/contact')
+def contact():
+    return render_template('contact.html')
 
 # Iniciar o servidor Flask
 if __name__ == '__main__':
