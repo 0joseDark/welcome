@@ -1,0 +1,7 @@
+meu_projeto/
+├── templates/
+│   ├── index.html
+│   ├── torre_linux.html
+│   ├── torre_windows.html
+│   └── main_torre.html
+├── app.py
