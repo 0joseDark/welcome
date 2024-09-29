@@ -98,6 +98,5 @@ urllib3==2.2.2
 usbinfo==1.1.2
 websocket-client==1.8.0
 websockets==13.0.1
-Werkzeug==3.0.4
 wsproto==1.2.0
 wxPython==4.2.2
